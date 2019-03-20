@@ -1,0 +1,47 @@
+{
+  "basics":{
+    "img":"images/image.jpg",
+    "name":"Ravindra",
+    "email":"ravindra456@gmail.com"
+  },
+  "career":{
+    "info":"1. I want to be  Good Police Officer"
+  },
+  "education":[
+    {
+      "sno":1,
+      "degree":"b.tech",
+      "institute":"mits",
+      "percentage":"85%",
+      "year":"2018"
+
+    },
+    {
+      "sno":2,
+      "degree":"intermediate",
+      "institute":"inter college",
+      "percentage":"95%",
+      "year":"2016"
+    },
+    {
+      "sno":3,
+      "degree":"SSC",
+      "institute":"high school",
+      "percentage":"90%",
+      "year":"2015"
+    }
+  ],
+  "skills":[
+    {
+      "info":"c"
+    },
+    {
+      "info":"c++"
+    },
+    {
+      "info":"java"
+    }
+
+  ]
+
+  }

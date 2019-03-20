@@ -1,0 +1,36 @@
+body {
+  background-color: lightblue;
+}
+img{
+  width: 50%;
+  border: 10%;
+}
+table{
+  border: 4px solid red;
+  width: 100%;
+}
+.parent{
+  justify-content:center;
+  display: flex;
+  background-color: blue;
+  border: 5px solid red;
+}
+.child1 {
+  border: 2px solid green;
+  background-color: skyblue;
+  text-align:center;
+  width: 30%;
+  justify-content: center;
+  padding-left: center;
+  border-radius: 10%
+}
+.child2{
+  border: 2px solid green;
+  background-color: skyblue;
+  text-align:center;center;
+  justify-content: center;
+  width: 30%;
+  padding: 2% 2%;
+  margin: 5% 5%;
+  border-radius: 5%
+}
